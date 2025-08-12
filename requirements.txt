@@ -1,0 +1,21 @@
+# Python version requirement
+# This project requires Python 3.8+ for type hints and dataclasses
+
+# Core dependencies (built-in modules used)
+# - math (built-in)
+# - typing (built-in)
+# - dataclasses (built-in)
+
+# Optional: For enhanced development experience
+# Uncomment the following if you want to add testing capabilities
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# Optional: For code formatting and linting
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
+
+# Optional: For documentation generation
+# sphinx>=5.0.0
+# sphinx-rtd-theme>=1.0.0
